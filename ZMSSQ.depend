@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1728827490 source:/home/lisisi/L/ZMSSQ/bplustree.cpp
+	"bplustree.h"
+
+1728827490 /home/lisisi/L/ZMSSQ/bplustree.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<math.h>
+	<queue>
+	"node.h"
+	"data.h"
+
+1728827490 /home/lisisi/L/ZMSSQ/node.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	<vector>
+	"record.h"
+
+1728827490 /home/lisisi/L/ZMSSQ/record.h
+	<vector>
+
+1728827490 /home/lisisi/L/ZMSSQ/data.h
+	<stdio.h>
+	<set>
+	<vector>
+	<map>
+	"record.h"
+	"util.h"
+
+1728837628 /home/lisisi/L/ZMSSQ/util.h
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<stdexcept>
+	<iostream>
+	<math.h>
+	<vector>
+	"record.h"
+
+1728837260 source:/home/lisisi/L/ZMSSQ/main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<filesystem>
+	<math.h>
+	"bplustree.h"
+	"util.h"
+	"data.h"
+	"node.h"
+	"ZSearch.h"
+
+1728827490 /home/lisisi/L/ZMSSQ/ZSearch.h
+	"util.h"
+	"record.h"
+	"bplustree.h"
+
+1728827490 source:/home/lisisi/L/ZMSSQ/util.cpp
+	"util.h"
+
+1728827517 source:/home/lisisi/L/ZMSSQ/data.cpp
+	"data.h"
+	<algorithm>
+	<stdio.h>
+	<string>
+	<climits>
+
+1728827490 source:/home/lisisi/L/ZMSSQ/ZSearch.cpp
+	<cmath>
+	"ZSearch.h"
+
+1728856290 source:/home/z/Lss/L/ZMSSQ/bplustree.cpp
+	"bplustree.h"
+
+1728856290 /home/z/Lss/L/ZMSSQ/bplustree.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<math.h>
+	<queue>
+	"node.h"
+	"data.h"
+
+1728856290 /home/z/Lss/L/ZMSSQ/node.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	<vector>
+	"record.h"
+
+1728856290 /home/z/Lss/L/ZMSSQ/record.h
+	<vector>
+
+1728856290 /home/z/Lss/L/ZMSSQ/data.h
+	<stdio.h>
+	<set>
+	<vector>
+	<map>
+	"record.h"
+	"util.h"
+
+1729539344 /home/z/Lss/L/ZMSSQ/util.h
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<stdexcept>
+	<iostream>
+	<math.h>
+	<vector>
+	"record.h"
+
+1728856318 source:/home/z/Lss/L/ZMSSQ/data.cpp
+	"data.h"
+	<algorithm>
+	<stdio.h>
+	<string>
+	<climits>
+
+1729180154 source:/home/z/Lss/L/ZMSSQ/util.cpp
+	"util.h"
+
+1729181703 source:/home/z/Lss/L/ZMSSQ/ZSearch.cpp
+	<cmath>
+	"ZSearch.h"
+
+1728856290 /home/z/Lss/L/ZMSSQ/ZSearch.h
+	"util.h"
+	"record.h"
+	"bplustree.h"
+
+1729183070 source:/home/z/Lss/L/ZMSSQ/main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<filesystem>
+	<math.h>
+	"bplustree.h"
+	"util.h"
+	"data.h"
+	"node.h"
+	"ZSearch.h"
+
+1729519892 source:/home/lisisi/snap/ZMSSQ/bplustree.cpp
+	"bplustree.h"
+
+1728827490 /home/lisisi/snap/ZMSSQ/bplustree.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<math.h>
+	<queue>
+	"node.h"
+	"data.h"
+
+1728827490 /home/lisisi/snap/ZMSSQ/node.h
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	<vector>
+	"record.h"
+
+1728827490 /home/lisisi/snap/ZMSSQ/record.h
+	<vector>
+
+1729521297 /home/lisisi/snap/ZMSSQ/data.h
+	<stdio.h>
+	<set>
+	<vector>
+	<map>
+	"record.h"
+	"util.h"
+
+1729521297 /home/lisisi/snap/ZMSSQ/util.h
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<stdexcept>
+	<iostream>
+	<math.h>
+	<vector>
+	"record.h"
+
+1729521297 source:/home/lisisi/snap/ZMSSQ/data.cpp
+	"data.h"
+	<algorithm>
+	<stdio.h>
+	<string>
+	<climits>
+
+1729519892 source:/home/lisisi/snap/ZMSSQ/main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<filesystem>
+	<math.h>
+	"bplustree.h"
+	"util.h"
+	"data.h"
+	"node.h"
+	"ZSearch.h"
+
+1729520557 /home/lisisi/snap/ZMSSQ/ZSearch.h
+	"util.h"
+	"record.h"
+	"bplustree.h"
+
+1729520557 source:/home/lisisi/snap/ZMSSQ/ZSearch.cpp
+	<cmath>
+	"ZSearch.h"
+
+1729521297 source:/home/lisisi/snap/ZMSSQ/util.cpp
+	"util.h"
+
